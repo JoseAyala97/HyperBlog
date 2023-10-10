@@ -8,3 +8,6 @@ y lo lleno con información desde VIM
 Ahora estaré haciendo modificaciones desde la rama experimento, solo parar
 ver cómo funciona el REBASE
 Aunque esta es una mala práctica, es importante aprender todo .
+
+Haciendo cambios con una nueva rama para probar.
+Porque con el anterior no me salió
