@@ -1,0 +1,10 @@
+Esta historia habla sobre una persona que quiere probar el Rebase
+Freddy Vega se lo explico, pero esta persona quiere probar
+*Estoy infiltrado desde el rebase*
+Así que creo este archivo desde gitBash
+y lo lleno con información desde VIM
+
+
+Ahora estaré haciendo modificaciones desde la rama experimento, solo parar
+ver cómo funciona el REBASE
+Aunque esta es una mala práctica, es importante aprender todo .
